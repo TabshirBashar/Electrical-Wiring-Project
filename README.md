@@ -1,2 +1,2 @@
 # Electrical-Wiring-Project
-This an electrical wiring project of KUET
+This is an electrical wiring project of KUET
