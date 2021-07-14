@@ -1,3 +1,3 @@
 # Electrical-Wiring-Project
-This is an electrical wiring project of KUET
+This is a 2nd year electrical wiring project of KUET
 
